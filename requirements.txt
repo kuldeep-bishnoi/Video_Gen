@@ -1,0 +1,28 @@
+# LLM Dependencies
+llama-cpp-python>=0.2.0  # Python bindings for llama.cpp
+transformers>=4.30.0     # Hugging Face transformers library
+
+# TTS Dependencies
+TTS>=0.14.0              # Coqui TTS
+piper-tts>=0.0.1         # Piper TTS
+
+# Animation Dependencies
+manim>=0.17.0            # Mathematical animation engine
+pillow>=9.5.0            # Image processing
+
+# Video Composition
+ffmpeg-python>=0.2.0     # Python bindings for FFmpeg
+moviepy>=1.0.3           # Video editing library
+
+# Utility Dependencies
+numpy>=1.24.0            # Numerical computations
+scipy>=1.10.0            # Scientific computing
+matplotlib>=3.7.0        # Plotting and visualization
+pydub>=0.25.1            # Audio processing
+tqdm>=4.60.0             # Progress bars
+
+openai>=1.0.0
+gTTS>=2.3.0
+psutil>=5.9.0
+requests>=2.25.0
+
