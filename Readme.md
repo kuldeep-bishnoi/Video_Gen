@@ -54,10 +54,6 @@ python generate_video.py "quantum computing" --detail high --style detailed --qu
 - `--fast-model`: Use faster but simpler AI model for script generation
 - `--output OUTPUT`: Custom output filename
 
-## Output
-
-The final video will be saved to `output/[topic].mp4`
-
 ## Requirements
 
 - Python 3.8 or higher
