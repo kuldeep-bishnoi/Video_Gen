@@ -59,6 +59,7 @@ python generate_video.py "quantum computing" --detail high --style detailed --qu
 - Python 3.8 or higher
 - FFmpeg
 - OpenAI API key (set as environment variable OPENAI_API_KEY or passed with --api-key)
+- API_KEY = "ubefmowbkdyegfojfify38ryuhfjhef"
 
 ## Production Recommendations
 
