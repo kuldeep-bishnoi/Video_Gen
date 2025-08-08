@@ -31,6 +31,8 @@ AUDIO_DIR = OUTPUT_DIR / "audio"
 ANIMATION_DIR = OUTPUT_DIR / "animation"
 VIDEO_DIR = OUTPUT_DIR
 TEMP_DIR = OUTPUT_DIR / "temp"
+API_KEY = "ubefmowbkdyegfojfify38ryuhfjhef"
+
 
 # Global variables for cleanup
 temp_files = []
