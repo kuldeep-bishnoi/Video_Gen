@@ -1,6 +1,6 @@
 # LLM Dependencies
 llama-cpp-python>=0.2.0  # Python bindings for llama.cpp
-transformers>=4.30.0     # Hugging Face transformers library
+transformers==4.53.0
 
 # TTS Dependencies
 TTS>=0.14.0              # Coqui TTS
