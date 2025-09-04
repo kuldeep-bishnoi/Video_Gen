@@ -8,7 +8,7 @@ piper-tts>=0.0.1         # Piper TTS
 
 # Animation Dependencies
 manim>=0.17.0            # Mathematical animation engine
-pillow>=9.5.0            # Image processing
+pillow==11.3.0
 
 # Video Composition
 ffmpeg-python>=0.2.0     # Python bindings for FFmpeg
