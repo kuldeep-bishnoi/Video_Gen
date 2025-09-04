@@ -19,7 +19,7 @@ numpy>=1.24.0            # Numerical computations
 scipy>=1.10.0            # Scientific computing
 matplotlib>=3.7.0        # Plotting and visualization
 pydub>=0.25.1            # Audio processing
-tqdm>=4.60.0             # Progress bars
+tqdm==4.66.3
 
 openai>=1.0.0
 gTTS>=2.3.0
